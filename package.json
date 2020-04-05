@@ -7,8 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "say": "echo Hello World!",
     "create": "mkdir build",
-    "delete": "rm -r build",
-    "create": " touch script.js"
+    "delete": "rm -r build"
     
   },
   "repository": {
